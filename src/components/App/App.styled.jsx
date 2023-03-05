@@ -12,3 +12,4 @@ export const Title = styled.h2`
 export const Text = styled.p`
   padding-left: 20px;
 `
+// 
